@@ -298,3 +298,4 @@ void toggle(sint256_t *result, const sint256_t *obj)
 }
 
 ```
+1.과는 달리 부호 비트만 변환시켜주면 된다.
